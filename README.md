@@ -124,7 +124,11 @@ Architecture Diagram: High-Level Backend Architecture
        |
   Monitor & Logging  → Prometheus/Grafana
         
+```
+- Service Map: Monitoring & Observability
+```
 
-
-
+[Application] → [Prometheus] → [Grafana] → [Alerts]
+       |                |                |
+Logs (ELK Stack)    Metrics          Dashboards
 ```
