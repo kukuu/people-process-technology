@@ -4,7 +4,8 @@ To outline the steps for achieving delivery in an Agile cross-functional team fr
 Below is a structured approach with workflow charts, service maps, and architecture diagrams.
 
 ## People Perspective
-Workflow Chart: Team Collaboration
+
+ - Workflow Chart: Team Collaboration
 
 ```
 [Team Structure]   →   [Agile Ceremonies] → [Communication Strategies] → [Cross-Team Collaboration]
@@ -14,4 +15,13 @@ Frontend Engineers     Daily Standups              Jira                         
 QA Engineers           Sprint Demos               Confluence                      Knowledge Sharing
 DevOps Engineers       Backlog Grooming          Teams Meetings                  Escalation Process
 
+```
+- Service Map: Team Interactions
+
+```
+[Product Owner] → [Backend Team] → [Frontend Team] → [QA Team] → [DevOps Team]
+       |                |                |                |                |
+Requirements       API Development   UI Development   Testing           Deployment
+       |                |                |                |                |
+Stakeholders       Database Design   Responsiveness   Bug Reporting     Monitoring
 ```
