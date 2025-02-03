@@ -51,7 +51,7 @@ Stakeholders       Backlog Grooming          Task Allocation     Assignment    P
   
 ```
 [Code Commit] → [Build] → [Unit Tests] → [Integration Tests] → [Deploy to Staging] → [End-to-End Tests] → [Deploy to Production] → [Monitor]
-       |                |                   |                        |                        |                        |                        |
+       |                |                   |                        |                        |                        |                |
 GitHub Actions      Docker Images        Jest/Cypress             Kubernetes              Selenium           GitHub Actions/Jenkins  Prometheus/Grafana
 ```
 
@@ -106,3 +106,25 @@ Automated Testing: Implement unit, integration, and end-to-end tests in the CI/C
 Tech Debt Management: Allocate time in sprints for refactoring and addressing technical debt.
 
 Incident Response: Use tools like PagerDuty for real-time incident management.
+
+## Technology Perspective
+
+Architecture Diagram: High-Level Backend Architecture
+
+```
+[Load Balancer (Nginx)]
+       |
+[API Gateway]
+       |
+[Microservices] → [User Service] → [Billing Service] → [Notification Service]
+       |                |                |                |
+[Databases] → [PostgreSQL] → [Redis] → [Elasticsearch]
+       |
+[CI/CD Pipeline] → [GitHub Actions/Jenkins] → [Docker/Kubernetes]
+       |
+  Monitor & Logging  → Prometheus/Grafana
+        
+
+
+
+```
