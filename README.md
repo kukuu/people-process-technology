@@ -97,3 +97,12 @@ Tool: GitHub Actions/Jenkins (for deploying the application to production).
 vii. Monitor:
 
 Tool: Prometheus/Grafana (for monitoring application performance and generating alerts).
+
+- Best Practices:
+
+  
+Automated Testing: Implement unit, integration, and end-to-end tests in the CI/CD pipeline.
+
+Tech Debt Management: Allocate time in sprints for refactoring and addressing technical debt.
+
+Incident Response: Use tools like PagerDuty for real-time incident management.
