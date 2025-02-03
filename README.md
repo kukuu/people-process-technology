@@ -37,8 +37,12 @@ iii. Continuous Feedback: Encourage open communication and regular feedback loop
 
 ## Process Perspective
 
-Workflow Chart: End-to-End Development Process
+Workflow Chart: End-to-End Development Process 
+
+```
 
 [Product Idea] → [Requirements Gathering] → [Sprint Planning] → [Development] → [Code Review] → [Testing]      →          [Release] → [Monitor & Improve]
        |                |                        |                   |                |                |                  |
 Stakeholders       Backlog Grooming          Task                 Assignment    Peer Reviews     Automated Tests       CI/CD Pipeline        User Feedback
+
+```
