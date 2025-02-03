@@ -25,3 +25,11 @@ Requirements       API Development     UI Development    Testing           Deplo
        |                |                   |                |                |
 Stakeholders       Database Design     Responsiveness    Bug Reporting     Monitoring
 ```
+
+- Best Practices:
+
+i. Cross-Functional Teams: Ensure each team has a mix of skills to reduce dependencies.
+
+ii. Clear Escalation Process: Define how blockers and risks are escalated and resolved (Team, Engineering Manager, Produc Owner, then CTO).
+
+iii. Continuous Feedback: Encourage open communication and regular feedback loops.
