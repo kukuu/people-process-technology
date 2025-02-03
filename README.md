@@ -1,1 +1,1 @@
-# people-process-tehnology
+# People Process Tehnology
