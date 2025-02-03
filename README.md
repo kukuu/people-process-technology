@@ -54,3 +54,46 @@ Stakeholders       Backlog Grooming          Task Allocation     Assignment    P
        |                |                   |                        |                        |                        |                        |
 GitHub Actions      Docker Images        Jest/Cypress             Kubernetes              Selenium           GitHub Actions/Jenkins  Prometheus/Grafana
 ```
+
+_Explanation of Alignment:_
+
+i. Code Commit:
+
+
+Tool: GitHub Actions (for version control and triggering the pipeline).
+
+
+ii. Build:
+
+
+Tool: Docker Images (for containerizing the application).
+
+iii. Unit Tests:
+
+Tool: Jest/Cypress (for running unit tests).
+
+
+iv. Integration Tests:
+
+Tool: Kubernetes (for orchestrating the deployment of services for integration testing).
+
+
+v. Deploy to Staging:
+
+
+Tool: Selenium (for automated end-to-end testing in the staging environment).
+
+
+v. End-to-End Tests:
+
+Tool: GitHub Actions/Jenkins (for orchestrating the end-to-end test suite).
+
+
+vi. Deploy to Production:
+
+Tool: GitHub Actions/Jenkins (for deploying the application to production).
+
+
+vii. Monitor:
+
+Tool: Prometheus/Grafana (for monitoring application performance and generating alerts).
