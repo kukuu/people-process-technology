@@ -14,7 +14,8 @@ Below is a structured approach with workflow charts, service maps, and architect
 Team Roles       Agile           Microservices
 Communication    CI/CD            Scalability
 Collaboration   Monitoring         Security
-                                   Performance
+Responsibilities                                   Performance
+
 
 ```
 
