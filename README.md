@@ -33,3 +33,12 @@ i. Cross-Functional Teams: Ensure each team has a mix of skills to reduce depend
 ii. Clear Escalation Process: Define how blockers and risks are escalated and resolved (Team, Engineering Manager, Produc Owner, then CTO).
 
 iii. Continuous Feedback: Encourage open communication and regular feedback loops.
+
+
+## Process Perspective
+
+Workflow Chart: End-to-End Development Process
+
+[Product Idea] → [Requirements Gathering] → [Sprint Planning] → [Development] → [Code Review] → [Testing]      →          [Release] →    [Monitor & Improve]
+       |                |                        |                   |                |                |                  |
+Stakeholders       Backlog Grooming          Task                 Assignment    Peer Reviews     Automated Tests       CI/CD Pipeline        User Feedback
