@@ -19,9 +19,9 @@ DevOps Engineers       Backlog Grooming          Teams Meetings                 
 - Service Map: Team Interactions
 
 ```
-[Product Owner] → [Backend Team] → [Frontend Team] → [QA Team] → [DevOps Team]
-       |                |                |                |                |
-Requirements       API Development   UI Development   Testing           Deployment
-       |                |                |                |                |
-Stakeholders       Database Design   Responsiveness   Bug Reporting     Monitoring
+[Product Owner] → [Backend Team] →   [Frontend Team] →  [QA Team]    →      [DevOps Team]
+       |                |                  |                |                |
+Requirements       API Development     UI Development    Testing           Deployment
+       |                |                   |                |                |
+Stakeholders       Database Design     Responsiveness    Bug Reporting     Monitoring
 ```
