@@ -3,6 +3,21 @@
 To outline the steps for achieving delivery in an Agile cross-functional team from a People, Process, and Technology perspective. 
 Below is a structured approach with workflow charts, service maps, and architecture diagrams.
 
+
+## Workflow Integration
+
+- End-to-End Workflow Diagram
+
+```
+[People] →    [Process] →       [Technology]
+   |             |                   |
+Team Roles       Agile           Microservices
+Communication    CI/CD            Scalability
+Collaboration   Monitoring         Security
+                                   Performance
+
+```
+
 ## People Perspective
 
  - Workflow Chart: Team Collaboration
