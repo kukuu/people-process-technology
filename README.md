@@ -19,6 +19,15 @@ Responsibilities                                   Performance
 
 ```
 
+-  Best Practices Summary
+
+i. People: Foster collaboration, clear communication, and continuous feedback.
+
+ii. Process: Automate workflows, manage technical debt, and prioritize business value.
+
+
+iii. Technology: Design for scalability, security, and observability.
+
 ## People Perspective
 
  - Workflow Chart: Team Collaboration
