@@ -41,8 +41,8 @@ Workflow Chart: End-to-End Development Process
 
 ```
 
-[Product Idea] → [Requirements Gathering] → [Sprint Planning] → [Development] → [Code Review] → [Testing]      →          [Release] → [Monitor & Improve]
+[Product Idea] → [Requirements Gathering] → [Sprint Planning] → [Development] → [Code Review] → [Testing]      →    [Release]   →      [Monitor & Improve]
        |                |                        |                   |                |                |                  |
-Stakeholders       Backlog Grooming          Task                 Assignment    Peer Reviews     Automated Tests       CI/CD Pipeline        User Feedback
+Stakeholders       Backlog Grooming          Task Allocation     Assignment    Peer Reviews     Automated Tests       CI/CD Pipeline        User Feedback
 
 ```
