@@ -132,3 +132,11 @@ Architecture Diagram: High-Level Backend Architecture
        |                |                |
 Logs (ELK Stack)    Metrics          Dashboards
 ```
+
+- Best Practices:
+
+i. High Availability: Use auto-scaling and database replication.
+
+ii. Rate Limiting: Implement API Gateway-based rate limiting to prevent abuse.
+
+iii. Security: Use IAM roles, VPC security groups, Pen Testing and encryption (TLS, AES-256).
