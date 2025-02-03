@@ -26,7 +26,7 @@ Requirements       API Development     UI Development    Testing           Deplo
 Stakeholders       Database Design     Responsiveness    Bug Reporting     Monitoring
 ```
 
-- Best Practices:
+- Best Practices
 
 i. Cross-Functional Teams: Ensure each team has a mix of skills to reduce dependencies.
 
@@ -37,7 +37,7 @@ iii. Continuous Feedback: Encourage open communication and regular feedback loop
 
 ## Process Perspective
 
-Workflow Chart: End-to-End Development Process 
+- Workflow Chart: End-to-End Development Process 
 
 ```
 
@@ -45,4 +45,12 @@ Workflow Chart: End-to-End Development Process
        |                |                        |                   |                |                |                  |
 Stakeholders       Backlog Grooming          Task Allocation     Assignment    Peer Reviews     Automated Tests       CI/CD Pipeline        User Feedback
 
+```
+
+- Service Map: CI/CD Pipeline
+  
+```
+[Code Commit] → [Build] → [Unit Tests] → [Integration Tests] → [Deploy to Staging] → [End-to-End Tests] → [Deploy to Production] → [Monitor]
+       |                |                   |                        |                        |                        |                        |
+GitHub Actions      Docker Images        Jest/Cypress             Kubernetes              Selenium           GitHub Actions/Jenkins  Prometheus/Grafana
 ```
