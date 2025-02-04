@@ -168,7 +168,19 @@ Incident Response: Use tools like PagerDuty for real-time incident management.
 
 ## Technology Perspective
 
-Architecture Diagram: High-Level Backend Architecture
+
+- Key Architecture Considerations:
+
+i. Microservices vs Monolith: Justification for choice
+
+ii. Scalability: Load balancing, caching (Redis), containerization (Kubernetes)
+
+iii. Security: Authentication (OAuth, JWT), Data protection (PCI DSS compliance)
+
+iv. Monitoring & Observability: Use of Prometheus, Grafana, or ELK Stack
+
+
+- Architecture Diagram: High-Level Backend Architecture
 
 ```
 [Load Balancer (Nginx)]
@@ -199,3 +211,46 @@ i. High Availability: Use auto-scaling and database replication.
 ii. Rate Limiting: Implement API Gateway-based rate limiting to prevent abuse.
 
 iii. Security: Use IAM roles, VPC security groups, Pen Testing and encryption (TLS, AES-256).
+
+
+## Possible Questions and Answers
+
+- People & Process Perspective
+
+Q: How would you structure the engineering team to ensure high performance? 
+
+A: Follow a cross-functional team approach (Backend, 
+Frontend, QA, DevOps). Establish clear communication channels and conduct Agile ceremonies for continuous improvement. 
+
+.....
+
+Q: How do you handle technical debt while ensuring delivery of new features? 
+
+A: Balance new feature development with incremental refactoring. Use Tech Debt Sprints and maintain a roadmap for addressing high-priority debt.
+
+....
+
+Q: How do you manage stakeholder expectations in an engineering project? 
+
+A: Frequent updates via sprint demos, Jira tracking, and risk mitigation meetings with Product Managers and leadership. 
+Technical Perspective
+
+...
+
+Q: How do you ensure high availability in a distributed system?
+
+A: Implement load balancing, auto-scaling, and database replication strategies. Use Kubernetes for container orchestration. 
+
+...
+
+
+Q: How do you handle rate-limiting in an API to prevent abuse?
+
+A: Implement API Gateway-based rate limiting (e.g., AWS API Gateway, Kong) and token-based throttling. 
+
+...
+
+
+Q: How do you ensure security and compliance in the cloud? 
+
+A: Implement IAM roles, VPC security groups, encryption (TLS, AES-256), and regular penetration testing. 
