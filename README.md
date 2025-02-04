@@ -81,6 +81,19 @@ iii. Continuous Feedback: Encourage open communication and regular feedback loop
 
 ## Process Perspective
 
+
+- Methodology: Agile/Scrum/Kanban
+
+i. Define sprint cycle (2-week, 3-week sprints)
+
+ii. Backlog grooming and prioritization process
+
+iii. CI/CD pipeline for continuous releases
+
+iv. Incident management and monitoring
+
+
+
 - Workflow Chart: End-to-End Development Process 
 
 ```
