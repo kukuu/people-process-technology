@@ -37,9 +37,11 @@ iii. Technology: Design for scalability, security, and observability.
 
 i. Team structure (Backend, Frontend, DevOps, QA)
 
-ii. Communication strategies (Standups, Sprint Planning, Retros)
+ii. Agile Ceremonies
 
-iii. Cross-team collaboration
+iii. Communication strategies (Standups, Sprint Planning, Retros)
+
+iv. Cross-team collaboration
 
 _Example Structure for Discussion:_
 
