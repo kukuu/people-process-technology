@@ -30,6 +30,25 @@ iii. Technology: Design for scalability, security, and observability.
 
 ## People Perspective
 
+
+
+
+- Key Focus Areas: TACC
+
+i. Team structure (Backend, Frontend, DevOps, QA)
+
+ii. Communication strategies (Standups, Sprint Planning, Retros)
+
+iii. Cross-team collaboration
+
+_Example Structure for Discussion:_
+
+i. What teams are involved? Backend, Frontend, QA, DevOps?
+
+ii. How do teams communicate? Slack, Jira, Standups, Reviews?
+
+iii. What is the escalation process? Handling blockers and risks.
+
  - Workflow Chart: Team Collaboration
 
 ```
