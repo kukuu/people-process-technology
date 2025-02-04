@@ -233,10 +233,13 @@ A: Balance new feature development with incremental refactoring. Use Tech Debt S
 Q: How do you manage stakeholder expectations in an engineering project? 
 
 A: Frequent updates via sprint demos, Jira tracking, and risk mitigation meetings with Product Managers and leadership. 
-Technical Perspective
+
 
 ...
 
+
+- Technical Perspective
+  
 Q: How do you ensure high availability in a distributed system?
 
 A: Implement load balancing, auto-scaling, and database replication strategies. Use Kubernetes for container orchestration. 
