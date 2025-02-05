@@ -1,7 +1,18 @@
 # People, Process & Technology (PPT)
 
+-  Best Practices Summary
+
 To outline the steps for achieving delivery in an Agile cross-functional team from a People, Process, and Technology perspective. 
 Below is a structured approach with workflow charts, service maps, and architecture diagrams.
+
+i. People: Foster collaboration, clear communication, and continuous feedback (CCC).
+
+ii. Process: Automate workflows, manage technical debt, and prioritize business value.
+
+
+iii. Technology: Design for scalability, security, and observability.
+
+
 
 
 ## Workflow Integration
@@ -19,14 +30,7 @@ Responsibilities                                   Performance
 
 ```
 
--  Best Practices Summary
 
-i. People: Foster collaboration, clear communication, and continuous feedback (CCC).
-
-ii. Process: Automate workflows, manage technical debt, and prioritize business value.
-
-
-iii. Technology: Design for scalability, security, and observability.
 
 ## People Perspective
 
