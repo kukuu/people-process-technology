@@ -100,7 +100,7 @@ iv. Incident management and monitoring
 
 ```
 
-[Product Idea] → [Requirements Gathering] → [Sprint Planning] → [Development] → [Code Review] → [Testing]      →    [Release]   →      [Monitor & Improve]
+[Discovery] → [Requirements Gathering] → [Sprint Planning] → [Development] → [Code Review] → [Testing]      →    [Release]   →      [Monitor & Improve]
        |                |                        |                   |                |                |                  |
 Stakeholders       Backlog Grooming/EPICS/STORIES          Task Allocation     Assignment    Peer Reviews     Automated Tests       CI/CD Pipeline        User Feedback
 
