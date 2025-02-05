@@ -21,7 +21,7 @@ Responsibilities                                   Performance
 
 -  Best Practices Summary
 
-i. People: Foster collaboration, clear communication, and continuous feedback.
+i. People: Foster collaboration, clear communication, and continuous feedback (CCC).
 
 ii. Process: Automate workflows, manage technical debt, and prioritize business value.
 
