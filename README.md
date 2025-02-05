@@ -180,7 +180,9 @@ i. Microservices vs Monolith: Justification for choice
 
 ii. Scalability: Load balancing, caching (Redis), containerization (Kubernetes)
 
-iii. Security: Authentication (OAuth, JWT), Data protection (PCI DSS compliance)
+iii. Security: Authentication (OAuth, JWT), Data protection (PCI DSS compliance) 
+
+..more reading: https://github.com/kukuu/fintech-open-banking-api/blob/main/financial-best-practices-governance.md
 
 iv. Monitoring & Observability: Use of Prometheus, Grafana, or ELK Stack
 
@@ -215,7 +217,9 @@ i. High Availability: Use auto-scaling and database replication.
 
 ii. Rate Limiting: Implement API Gateway-based rate limiting to prevent abuse.
 
-iii. Security: Use IAM roles, VPC security groups, Pen Testing and encryption (TLS, AES-256).
+iii. Security: Use IAM roles, VPC security groups, Pen Testing and encryption (TLS, AES-256). 
+
+..more reading: https://github.com/kukuu/fintech-open-banking-api/blob/main/financial-best-practices-governance.md
 
 
 ## Possible Questions and Answers
@@ -265,4 +269,6 @@ A: Implement IAM roles, VPC security groups, encryption (TLS, AES-256), and regu
 
 ## Further readding...
 
-- Best Practices in building finncial software - https://github.com/kukuu/fintech-open-banking-api/blob/main/financial-best-practices-governance.md
+- Best Practices in building finncial software:
+
+ https://github.com/kukuu/fintech-open-banking-api/blob/main/financial-best-practices-governance.md
