@@ -1,9 +1,10 @@
 # People, Process & Technology (PPT)
 
--  Best Practices Summary
+Below is a structured approach with workflow charts, service maps, and architecture diagrams.
+
+##  Best Practices Summary
 
 To outline the steps for achieving delivery in an Agile cross-functional team from a People, Process, and Technology perspective. 
-Below is a structured approach with workflow charts, service maps, and architecture diagrams.
 
 i. People: Foster collaboration, clear communication, and continuous feedback (CCC).
 
