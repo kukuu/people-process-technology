@@ -215,9 +215,9 @@ Logs (ELK Stack)    Metrics          Dashboards
 
 i. High Availability: Use auto-scaling and database replication.
 
-ii. Rate Limiting: Implement API Gateway-based rate limiting to prevent abuse.
+ii. Rate Limiting: Implement API Gateway-based rate limiting to prevent abuse / token-based access.
 
-iii. Security: Use IAM roles, VPC security groups, Pen Testing and encryption (TLS, AES-256). 
+iii. Security: Use IAM roles, RBAC, VPC security groups, Pen Testing and encryption (TLS, AES-256). 
 
 ..more reading: https://github.com/kukuu/fintech-open-banking-api/blob/main/financial-best-practices-governance.md
 
