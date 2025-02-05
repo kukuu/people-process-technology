@@ -16,7 +16,7 @@ iii. Technology: Design for scalability, security, and observability.
 
 
 
-## Workflow Integration
+## High-level Workflow Integration
 
 - End-to-End Workflow Diagram
 
