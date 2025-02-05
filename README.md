@@ -267,7 +267,7 @@ Q: How do you ensure security and compliance in the cloud? 
 
 A: Implement IAM roles, VPC security groups, encryption (TLS, AES-256), and regular penetration testing. 
 
-## Further readding...
+## more reading...
 
 - Best Practices in building finncial software:
 
