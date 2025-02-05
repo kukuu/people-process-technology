@@ -271,4 +271,6 @@ A: Implement IAM roles, VPC security groups, encryption (TLS, AES-256), and regu
 
 - Best Practices in building finncial software:
 
- https://github.com/kukuu/fintech-open-banking-api/blob/main/financial-best-practices-governance.md
+ 1. https://github.com/kukuu/fintech-open-banking-api/blob/main/financial-best-practices-governance.md
+
+ 2. https://github.com/kukuu/fintech-open-banking-api/tree/main
