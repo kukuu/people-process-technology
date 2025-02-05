@@ -2,7 +2,7 @@
 
 Below is a structured approach with workflow charts, service maps, and architecture diagrams.
 
-##  Best Practices Summary
+##  Best Practices 
 
 To outline the steps for achieving delivery in an Agile cross-functional team from a People, Process, and Technology perspective. 
 
