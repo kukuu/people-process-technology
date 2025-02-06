@@ -8,7 +8,7 @@ To outline the steps for achieving delivery in an Agile cross-functional team fr
 
 i. People: Foster collaboration, clear communication, and continuous feedback (CCC).
 
-ii. Process: Automate workflows, manage technical debt, and prioritize business value.
+ii. Process: Automate workflows, manage technical debt, and prioritize business value. 
 
 
 iii. Technology: Design for scalability, security, and observability.
