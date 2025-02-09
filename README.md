@@ -88,7 +88,7 @@ iii. Continuous Feedback: Encourage open communication and regular feedback loop
 
 ## Process Perspective
 
-Consider Automation Workflows, Mnaging Technical Debt and Prioritising Business Values.
+Consider Automation Workflows, Managing Technical Debt and Prioritising Business Values.
 
 - Methodology: Agile/Scrum/Kanban
 
