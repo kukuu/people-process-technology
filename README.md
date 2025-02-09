@@ -35,7 +35,7 @@ Responsibilities                                   Performance
 
 ## People Perspective
 
-
+Emphasising Clear Communication, Colaboration and Continuous Improvement (CCC).
 
 
 - Key Focus Areas: TACC
@@ -88,6 +88,7 @@ iii. Continuous Feedback: Encourage open communication and regular feedback loop
 
 ## Process Perspective
 
+Consider Automation Workflows, Mnaging Technical Debt and Prioritising Business Values.
 
 - Methodology: Agile/Scrum/Kanban
 
@@ -173,6 +174,7 @@ Incident Response: Use tools like PagerDuty for real-time incident management.
 
 ## Technology Perspective
 
+Design for SSO - Scalability, Security and Observability.
 
 - Key Architecture Considerations:
 
