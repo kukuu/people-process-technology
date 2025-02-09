@@ -267,7 +267,7 @@ A: Implement API Gateway-based rate limiting (e.g., AWS API Gateway, Kong) and t
 
 Q: How do you ensure security and compliance in the cloud? 
 
-A: Implement IAM roles, VPC security groups, encryption (TLS, AES-256), and regular penetration testing. 
+A: Implement IAM roles, VPC security groups, encryption (TLS, AES-256), and regular penetration testing with OWASP ZAP,and adherance to regulatory standards and compliance - https://github.com/kukuu/fintech-open-banking-api/blob/main/financial-best-practices-governance.md. 
 
 ## more reading...
 
