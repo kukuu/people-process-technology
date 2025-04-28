@@ -2,7 +2,7 @@
 
 These case studies re-inforces adaptation to diverse technical delivery environments and driving results.
 
-_1. Finding Simplicity:_
+**_1. Finding Simplicity:_**
    
 Situation: In my role at VW Finance as an Engineering Dev Manager, I inherited a legacy monolithic system used for processing real-time transactions. The process for onboarding new clients was complex, involving multiple manual steps and requiring weeks of effort.
 
@@ -12,7 +12,7 @@ Action: I proposed breaking the monolith into microservices, starting with the o
 
 Result: The onboarding process was reduced to 48 hours, client satisfaction scores improved by 30%, and the team saved over 100 hours per month in manual effort. This approach also paved the way for scaling other modules as microservices, driving efficiency across the system.
 
-_2. Collaboration & Partnership:_
+**_2. Collaboration & Partnership:_**
 
 Situation: While leading a full-stack team during a data migration project at Marks and Spencer, I had to collaborate with a distributed team across three continents: EMEA. Midway through the project, unexpected performance bottlenecks in data ingestion disrupted timelines.
 
@@ -24,7 +24,7 @@ Result: The team resolved bottlenecks in two weeks, and the migration was comple
 
 
 
-_3. Learning Agility:_
+**_3. Learning Agility:_**
    
 Situation: In a fast-paced health-tech startup working as Tech Lead, I was assigned to lead the integration of a third-party machine learning (ML) API for patient diagnostics—a technology I had limited prior experience. The deadline for integration was tight due to regulatory pressures.
 
@@ -34,7 +34,7 @@ Action: I dedicated the first week to intensive learning, reviewing the API docu
 
 Result: The integration was completed ahead of schedule, and the system successfully passed all regulatory audits. My learning agility not only enabled the project’s success but also empowered the team to confidently tackle similar challenges in the future. Since then I architected and led the SMART Meter Digital Twin for OFGEM an initiative for the MHHR project - https://digital-twin-v2-chi.vercel.app/
  
-_4. Motivations_
+**_4. Motivations_**
 
 Situation: I have always been passionate about creating innovative, scalable, and user-centered solutions that have a real-world impact. This drive aligns closely with Skyscanner’s mission to make travel planning seamless for millions of users worldwide. My work on the FIFA World Cup 2022 reinforced my passion for tackling complex challenges to deliver impactful outcomes.
 
