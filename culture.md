@@ -36,12 +36,12 @@ Result: The integration was completed ahead of schedule, and the system successf
  
 **_4. Motivations_**
 
-Situation: I have always been passionate about creating innovative, scalable, and user-centered solutions that have a real-world impact. This drive aligns closely with Skyscanner’s mission to make travel planning seamless for millions of users worldwide. My work on the FIFA World Cup 2022 reinforced my passion for tackling complex challenges to deliver impactful outcomes.
+Situation: I have always been passionate about creating innovative, scalable, and user-centered solutions that have a real-world impact. This drive aligns closely with with as example  the business’s mission to make travel planning seamless for millions of users worldwide. My work on the FIFA World Cup 2022 reinforced my passion for tackling complex challenges to deliver impactful outcomes.
 
 Task: During the FIFA World Cup 2022, I was responsible for designing and integrating a scalable voting system that allowed millions of fans to vote in real-time for "Player of the Match." The system needed to handle unpredictable spikes in traffic, maintain accurate voting results, and ensure security and fairness.
 
 Action: I collaborated with cross-functional teams, including backend engineers, DevOps, and UX designers, to design a microservices-based architecture for the voting system. By leveraging technologies such as AWS Lambda for serverless processing, DynamoDB for high-performance data storage, and a robust CDN for efficient content delivery, I ensured the system was highly scalable and resilient. I also implemented rate limiting, authentication mechanisms, and monitoring tools (e.g., CloudWatch) to handle security and observability requirements.
 
-Result: The voting system processed over 5 million votes seamlessly during peak matches, maintained 99.9% uptime, and delivered results in real-time. The system became a celebrated feature of the event, increasing fan engagement and ensuring a fair and transparent voting process. This experience deepened my passion for working on high-impact systems, motivating me to join organizations like Skyscanner that aim to enhance experiences for a global audience.
+Result: The voting system processed over 5 million votes seamlessly during peak matches, maintained 99.9% uptime, and delivered results in real-time. The system became a celebrated feature of the event, increasing fan engagement and ensuring a fair and transparent voting process. This experience deepened my passion for working on high-impact systems, motivating me to join organizations like yours that aim to enhance experiences for a global audience.
 
 
