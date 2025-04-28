@@ -12,7 +12,7 @@ Action: I proposed breaking the monolith into microservices, starting with the o
 
 Result: The onboarding process was reduced to 48 hours, client satisfaction scores improved by 30%, and the team saved over 100 hours per month in manual effort. This approach also paved the way for scaling other modules as microservices, driving efficiency across the system.
 
-_2. Collaboration & Partnership: _
+_2. Collaboration & Partnership:_
 
 Situation: While leading a full-stack team during a data migration project at Marks and Spencer, I had to collaborate with a distributed team across three continents: EMEA. Midway through the project, unexpected performance bottlenecks in data ingestion disrupted timelines.
 
